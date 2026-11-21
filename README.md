@@ -1,41 +1,48 @@
 # Progree Internship 🚀
 
-Welcome to my Progree Internship Repository!
+Welcome to my Progree Internship GitHub Repository!
 
-This repository showcases my learning journey, practical assignments, and projects completed during the Progree Internship.
+This repository contains my internship tasks, practical assignments, and machine learning projects completed during my learning journey.
 
 ## 👩‍💻 About Me
 
-Hi! I'm Umme Kalsoom, a BS Mathematics with Data Science student interested in Python, Machine Learning, and Data Science.
+I'm Umme Kalsoom, a BS Mathematics with Data Science student at COMSATS University Islamabad.
 
-I enjoy learning new technologies and applying my knowledge to practical problems.
+I'm interested in Machine Learning, Artificial Intelligence, Python, and Data Science. I enjoy learning new technologies and applying them to real-world problems.
 
-## 📚 Internship Tasks
+## 📂 Internship Tasks
 
 ### Task 02: Predictive Linear Regression
+- Exploring Predictive Linear Regression.
+- Understanding relationships between variables.
+- Working with prediction techniques.
 
-This task focuses on Predictive Linear Regression, a supervised machine learning technique used to understand relationships between variables and make predictions.
+### Task 03: CNN Image Classification
+- Introduction to Convolutional Neural Networks (CNN).
+- Understanding image classification.
+- Exploring deep learning techniques.
 
-**Key Learning Areas:**
-- Understanding Linear Regression
-- Data Analysis
-- Model Implementation
-- Prediction and Evaluation
+### Task 04: Clinical Disease Predictor
+- Working on a clinical disease prediction project.
+- Exploring machine learning applications in healthcare.
+- Understanding predictive modeling.
 
 ## 🛠️ Skills & Technologies
 
 - Python
 - Machine Learning
+- Deep Learning
 - Linear Regression
-- Data Analysis
+- CNN
+- Data Science
 - Git & GitHub
 
-## 🎯 Internship Goals
+## 🎯 Learning Goals
 
-- Improve practical programming skills.
-- Gain hands-on experience with Machine Learning.
-- Understand real-world data problems.
-- Build practical projects and strengthen technical knowledge.
+- Improve programming and problem-solving skills.
+- Gain practical experience in Machine Learning.
+- Learn to build data-driven solutions.
+- Develop real-world AI and Data Science projects.
 
 ## 👩‍🎓 Author
 
